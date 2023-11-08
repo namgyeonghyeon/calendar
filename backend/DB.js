@@ -1,0 +1,1 @@
+module.exports = {DB: 'mongodb://localhost:27017/date'} // db 생성 이름
